@@ -9,7 +9,9 @@ description: ''
 keywords:
 author: Juncheng Hu
 # language: zh-CN
-language: en
+language:
+  - zh-CN
+  # - en
 timezone: 'Asia/Shanghai'
 
 # URL
