@@ -15,6 +15,7 @@ date: 2025-06-24 10:00
 - <font color="0000dd">\[12/2024\]</font> Our paper "Boosting File Systems Elegantly: A Transparent NVM Write-ahead Log for Disk File Systems" has been accepted by FAST 2025(通信作者, CCF A)！
 - <font color="0000dd">\[11/2024\]</font> Our paper "A privacy-preserving federated graph learning framework for threat detection in IoT trigger-action programming" has been accepted by Expert Systems With Applications(通信作者, 中科院1区)！
 - <font color="0000dd">\[09/2024\]</font> Our paper "CCDF-TAP: A Context-aware Conflict Detection Framework for IoT Trigger-Action Programming with Graph Neural Network" has been accepted by IEEE Internet of Things Journal(通信作者, 中科院1区)！
+- <font color="0000dd">\[08/2024\]</font> Our paper "Enhancing Medical Assistance through Secure Federated Edge Data Augmentation with Local Differential Privacy in non-IID Scenarios" has been accepted by Tsinghua Science and Technology(通信作者, 中科院1区)！
 - <font color="0000dd">\[05/2024\]</font> Our paper "DCGNN: Adaptive deep graph convolution for heterophily graphs" has been accepted by Information Sciences(通信作者, 中科院1区)！
 ## 个人简介
 
