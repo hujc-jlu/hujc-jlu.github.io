@@ -4,7 +4,7 @@ date: 2025-06-24 10:00
 ---
 
 ## News
-- <font color=Blue>\[07/2025\]<font> Our paper "UAV-enabled Split Learning with Privacy Preservation in Internet of Things" has been accepted by IEEE Internet of Things Journal(通信作者, 中科院1区)！
+- \[07/2025\]Our paper "UAV-enabled Split Learning with Privacy Preservation in Internet of Things" has been accepted by IEEE Internet of Things Journal(通信作者, 中科院1区)！
 - \[05/2025\] Our paper "MCF-Spouse: A Multi-label Causal Feature Selection Method With Optimal Spouses Discovery" has been accepted by IJCAI 2025(通信作者, CCF A)！
 - \[05/2025\] Our paper "Quantum Delta Encoding:Optimizing DataStorage on Quantum Computers with ResourceEficiency" has been accepted by Euro-Par 2025(通信作者, CCF B)！
 - \[04/2025\] Our paper "Denoising Diffusion Models with Optimized Quantum Implicit Neural Networks for Image Generation" has been accepted by Future Generation Computer Systems(通信作者, CCF C)！
@@ -15,6 +15,7 @@ date: 2025-06-24 10:00
 - \[12/2024\] Our paper "Boosting File Systems Elegantly: A Transparent NVM Write-ahead Log for Disk File Systems" has been accepted by FAST 2025(通信作者, CCF A)！
 - \[11/2024\] Our paper "A privacy-preserving federated graph learning framework for threat detection in IoT trigger-action programming" has been accepted by Expert Systems With Applications(通信作者, 中科院1区)！
 - \[09/2024\] Our paper "CCDF-TAP: A Context-aware Conflict Detection Framework for IoT Trigger-Action Programming with Graph Neural Network" has been accepted by IEEE Internet of Things Journal(通信作者, 中科院1区)！
+- \[05/2024\] Our paper "DCGNN: Adaptive deep graph convolution for heterophily graphs" has been accepted by Information Sciences(通信作者, 中科院1区)！
 ## 个人简介
 
 胡俊成，博士，准聘讲师、博士生导师。本博均毕业于吉林大学，团队感兴趣计算机体系结构、文件系统、存储引擎、物联网大数据、计算机视觉等多模态数据处理技术等方面工作，以及量子计算/人工智能方法相关研究。近五年授权国家发明专利6项，公开待授权5项，发表学术论文30余篇，包括20余篇以责任作者身份发表的高水平论文，其中10篇高水平论文（CCF A/B、中科院1区）。
