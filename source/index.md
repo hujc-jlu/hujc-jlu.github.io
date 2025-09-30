@@ -67,7 +67,7 @@ date: 2025-06-24 10:00
 
 ### 会议论文
 
-[1]. Guoyu Wang, Xilong Che, Haoyang Wei, Shuo Chen, Puyi He, Juncheng Hu*. Boosting File Systems Elegantly: A Transparent NVM Write-ahead Log for Disk File Systems. The 23rd USENIX Conference on File and Storage Technologies (FAST), 2025. (CCF A类会议长文，存储领域顶会，吉林大学首篇)
+[1]. Guoyu Wang, Xilong Che, Haoyang Wei, Shuo Chen, Puyi He, <u>Juncheng Hu*</u>. Boosting File Systems Elegantly: A Transparent NVM Write-ahead Log for Disk File Systems. The 23rd USENIX Conference on File and Storage Technologies (FAST), 2025. (CCF A类会议长文，存储领域顶会，吉林大学首篇)
 
 [2]. Lin Ma, Liang Hu, Qiang Huang, Pingting Hao, Juncheng Hu*. MCF-Spouse: A Multi-label Causal Feature Selection Method With Optimal Spouses Discovery. The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025.(CCF A类会议长文)
 
