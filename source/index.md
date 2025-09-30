@@ -67,43 +67,43 @@ date: 2025-06-24 10:00
 
 ### 会议论文
 
-[1]. Guoyu Wang, Xilong Che, Haoyang Wei, Shuo Chen, Puyi He, <u>Juncheng Hu*</u>. Boosting File Systems Elegantly: A Transparent NVM Write-ahead Log for Disk File Systems. The 23rd USENIX Conference on File and Storage Technologies (FAST), 2025. (CCF A类会议长文，存储领域顶会，吉林大学首篇)
+[1]. Guoyu Wang, Xilong Che, Haoyang Wei, Shuo Chen, Puyi He, <b>Juncheng Hu*</b>. Boosting File Systems Elegantly: A Transparent NVM Write-ahead Log for Disk File Systems. The 23rd USENIX Conference on File and Storage Technologies (FAST), 2025. (CCF A类会议长文，存储领域顶会，吉林大学首篇)
 
-[2]. Lin Ma, Liang Hu, Qiang Huang, Pingting Hao, Juncheng Hu*. MCF-Spouse: A Multi-label Causal Feature Selection Method With Optimal Spouses Discovery. The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025.(CCF A类会议长文)
+[2]. Lin Ma, Liang Hu, Qiang Huang, Pingting Hao, <b>Juncheng Hu*</b>. MCF-Spouse: A Multi-label Causal Feature Selection Method With Optimal Spouses Discovery. The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025.(CCF A类会议长文)
 
-[3]. Tianhao Ma, Han Chen, Juncheng Hu, Yungang Zhu, Ximing Li*. Forming Auxiliary High-confident Instance-level Loss to Promote Learning from Label Proportions. In Proceedings of the IEEE/CVF Computer Vision and Pattern Recognition (CVPR), 2025. (CCF A类会议长文)
+[3]. Tianhao Ma, Han Chen, <b>Juncheng Hu</b>, Yungang Zhu, Ximing Li*. Forming Auxiliary High-confident Instance-level Loss to Promote Learning from Label Proportions. In Proceedings of the IEEE/CVF Computer Vision and Pattern Recognition (CVPR), 2025. (CCF A类会议长文)
 
-[4]. Jiale Zhang, Xilong Che, Yuzhe Fan, Juncheng Hu*. Quantum Delta Encoding: Optimizing Data Storage on Quantum Computers with Resource Efficiency. The 31st International European Conference on Parallel and Distributed Computing(Euro-Par), 2025.(CCF B类会议长文)
+[4]. Jiale Zhang, Xilong Che, Yuzhe Fan, <b>Juncheng Hu*</b>. Quantum Delta Encoding: Optimizing Data Storage on Quantum Computers with Resource Efficiency. The 31st International European Conference on Parallel and Distributed Computing(Euro-Par), 2025.(CCF B类会议长文)
 
-[5]. Jiale Zhang, Xilong Che, Shiyong Jin, Kaifan Pan, Shun Peng, Juncheng Hu*. Quantum Run-length Encoding: Optimizing Data Compression on Quantum Computers with Exponential Resource Efficiency. ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025. (CCF B类会议长文)
+[5]. Jiale Zhang, Xilong Che, Shiyong Jin, Kaifan Pan, Shun Peng, <b>Juncheng Hu*</b>. Quantum Run-length Encoding: Optimizing Data Compression on Quantum Computers with Exponential Resource Efficiency. ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025. (CCF B类会议长文)
 
-[6]. Xilong Che, Jiale Zhang, Shuo Chen, Shun Peng, Juncheng Hu*. QGIP: A Framework Bridging Quantum Grayscale Image Processing and Applications. The 22nd IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA), 2024. (CCF C类会议长文)
+[6]. Xilong Che, Jiale Zhang, Shuo Chen, Shun Peng, <b>Juncheng Hu*</b>. QGIP: A Framework Bridging Quantum Grayscale Image Processing and Applications. The 22nd IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA), 2024. (CCF C类会议长文)
 
 ### 期刊论文
 
-[1].Tengfei Li, Minghao Yin*, Juncheng Hu*. BLA: Byzantine-Tolerant Lazy Auditing Framework for Decentralized Storage Data Integrity. ACM Transactions on Storage (2025) (CCF A类，存储领域顶刊)
+[1].Tengfei Li, Minghao Yin*, <b>Juncheng Hu*</b>. BLA: Byzantine-Tolerant Lazy Auditing Framework for Decentralized Storage Data Integrity. ACM Transactions on Storage (2025) (CCF A类，存储领域顶刊)
 
-[2]. Jiale Zhang, Xilong Che, Yuzhe Fan, Shun Peng, Geng Chen, Quangong Ma, Juncheng Hu*. Quantum Run-length Encoding: Optimizing Data Compression on Quantum Computers with Exponential Resource Efficiency. Future Generation Computer Systems (2025)(CCF C类)
+[2]. Jiale Zhang, Xilong Che, Yuzhe Fan, Shun Peng, Geng Chen, Quangong Ma, <b>Juncheng Hu*</b>. Quantum Run-length Encoding: Optimizing Data Compression on Quantum Computers with Exponential Resource Efficiency. Future Generation Computer Systems (2025)(CCF C类)
 
-[3]. Juncheng Hu, Shuo Chen, Haoyang Wei, Guoyu Wang, Chenju Pei, Xilong Che*. StorStack: A Full-Stack Design for In-Storage File Systems. Journal of Systems Architecture (2025)(CCF B类)
+[3]. <b>Juncheng Hu</b>, Shuo Chen, Haoyang Wei, Guoyu Wang, Chenju Pei, Xilong Che*. StorStack: A Full-Stack Design for In-Storage File Systems. Journal of Systems Architecture (2025)(CCF B类)
 
-[4]. Yongheng Xing, Liang Hu, Xinqi Du, Zhiqi Shen, Juncheng Hu*, Feng Wang. A privacy-preserving federated graph learning framework for threat detection in IoT trigger-action programming. Expert Systems with Applications. 246: 123180 (2024) (中科院1区，CCF C类)
+[4]. Yongheng Xing, Liang Hu, Xinqi Du, Zhiqi Shen, <b>Juncheng Hu*</b>, Feng Wang. A privacy-preserving federated graph learning framework for threat detection in IoT trigger-action programming. Expert Systems with Applications. 246: 123180 (2024) (中科院1区，CCF C类)
 
-[5]. Yongheng Xing, Liang Hu, Xinqi Du, Zhiqi Shen, Juncheng Hu*, Feng Wang. CCDF-TAP: A Context-Aware Conflict Detection Framework for IoT Trigger-Action Programming With Graph Neural Network. IEEE Internet of Things Journal (2024)(中科院1区，CCF C类)
+[5]. Yongheng Xing, Liang Hu, Xinqi Du, Zhiqi Shen, <b>Juncheng Hu*</b>, Feng Wang. CCDF-TAP: A Context-Aware Conflict Detection Framework for IoT Trigger-Action Programming With Graph Neural Network. IEEE Internet of Things Journal (2024)(中科院1区，CCF C类)
 
-[6]. Juncheng Hu, Gaochao Xu, Liang Hu, Shujing Li, Yang Xing. An Adaptive Energy Efficient MAC Protocol for RF Energy Harvesting WBANs. IEEE Trans. Commun. 71(1): 473-484 (2023) (中科院2区，CCF B类)
+[6]. <b>Juncheng Hu</b>, Gaochao Xu, Liang Hu, Shujing Li, Yang Xing. An Adaptive Energy Efficient MAC Protocol for RF Energy Harvesting WBANs. IEEE Transactions on Communications 71(1): 473-484 (2023) (中科院2区，CCF B类)
 
-[7]. Juncheng Hu, Yonghao Li, Wanfu Gao, Ping Zhang. Robust multi-label feature selection with dual-graph regularization. Knowl. Based Syst. 203: 106126 (2020) (中科院1区，CCF C类)
+[7]. <b>Juncheng Hu</b>, Yonghao Li, Wanfu Gao, Ping Zhang. Robust multi-label feature selection with dual-graph regularization. Knowl. Based Syst. 203: 106126 (2020) (中科院1区，CCF C类)
 
-[8]. Juncheng Hu, Yonghao Li, Gaochao Xu, Wanfu Gao. Dynamic subspace dual-graph regularized multi-label feature selection. Neurocomputing 467: 184-196 (2022) (CCF C类)
+[8]. <b>Juncheng Hu</b>, Yonghao Li, Gaochao Xu, Wanfu Gao. Dynamic subspace dual-graph regularized multi-label feature selection. Neurocomputing 467: 184-196 (2022) (CCF C类)
 
-[9]. Yonghao Li, Juncheng Hu*, Wanfu Gao. Robust multi-label feature selection with shared label enhancement. Knowl. Inf. Syst. 64(12): 3343-3372 (2022) (CCF B类)
+[9]. Yonghao Li, <b>Juncheng Hu*</b>, Wanfu Gao. Robust multi-label feature selection with shared label enhancement. Knowl. Inf. Syst. 64(12): 3343-3372 (2022) (CCF B类)
 
-[10]. Yang Wu, Yu Wang, Liang Hu, Juncheng Hu*. DCGNN: Adaptive deep graph convolution for heterophily graphs. Information Sciences, 609: 120427 (2024) (中科院1区，CCF B类)
+[10]. Yang Wu, Yu Wang, Liang Hu, <b>Juncheng Hu*</b>. DCGNN: Adaptive deep graph convolution for heterophily graphs. Information Sciences, 609: 120427 (2024) (中科院1区，CCF B类)
 
-[11]. Juncheng Hu, Yongheng Xing, Mo Han, Feng Wang, Kuo Zhao and Xilong Che.  Nonnegative matrix tri-factorization based clustering in a heterogeneous information network with star network schema. Tsinghua Science and Technology. 27: 386-395 (2022) (中科院 2区)
+[11]. <b>Juncheng Hu</b>, Yongheng Xing, Mo Han, Feng Wang, Kuo Zhao and Xilong Che.  Nonnegative matrix tri-factorization based clustering in a heterogeneous information network with star network schema. Tsinghua Science and Technology. 27: 386-395 (2022) (中科院 2区)
 
-[12]. Juncheng Hu, Xilong Che*, Bowen Kan, Yuhan Shao. LS-HTS: an HTC system for large-scale jobs. CCF Trans. High Perform. Comput.  (2024)(CCF C类)
+[12]. <b>Juncheng Hu</b>, Xilong Che*, Bowen Kan, Yuhan Shao. LS-HTS: an HTC system for large-scale jobs. CCF Trans. High Perform. Comput.  (2024)(CCF C类)
 
 ### 发明专利
 
