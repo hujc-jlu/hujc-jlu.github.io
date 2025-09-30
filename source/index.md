@@ -4,7 +4,7 @@ date: 2025-06-24 10:00
 ---
 
 ## News🎉
-- <font color="0000dd">\[08/2025\]</font> Our poster "Boosting File Systems Elegantly: A Transparent NVM Write-ahead Log for Disk File Systems" has won the Best Poster Award at the China Storage Conference 2025！
+🔔:- <font color="0000dd">\[08/2025\]</font> Our poster "Boosting File Systems Elegantly: A Transparent NVM Write-ahead Log for Disk File Systems" has won the Best Poster Award at the China Storage Conference 2025！
 - <font color="0000dd">\[07/2025\]</font> Our paper "UAV-enabled Split Learning with Privacy Preservation in Internet of Things" has been accepted by IEEE Internet of Things Journal(通信作者, 中科院1区)！
 - <font color="0000dd">\[05/2025\]</font> Our paper "MCF-Spouse: A Multi-label Causal Feature Selection Method With Optimal Spouses Discovery" has been accepted by IJCAI 2025(通信作者, CCF A)！
 - <font color="0000dd">\[05/2025\]</font> Our paper "Quantum Delta Encoding:Optimizing DataStorage on Quantum Computers with ResourceEficiency" has been accepted by Euro-Par 2025(通信作者, CCF B)！
