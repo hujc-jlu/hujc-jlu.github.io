@@ -4,7 +4,7 @@ date: 2025-06-24 10:00
 ---
 
 ## News🎉 
-- <font color="0000dd">\[10/2025\]</font> Our paper "Boosting Disk File Systems with a Transparent NVM Write-ahead Log" has been accepted by ACM Transactions on Storage(共一/通信作者, CCF A)！
+- <font color="0000dd">\[10/2025\]</font> Our paper "A Transparent NVM Acceleration Framework for Disk File Systems" has been accepted by ACM Transactions on Storage(共一/通信作者, CCF A)！
 - <font color="0000dd">\[10/2025\]</font> Our paper "Efficient Video Representation via Hybrid Key Frame Reconstruction: A Test-time Data Augmentation Approach" has been accepted by IEEE Journal of Selected Topics in Signal Processing(第一作者, 中科院2区)！
 - <font color="0000dd">\[08/2025\]</font> Our poster "Boosting File Systems Elegantly: A Transparent NVM Write-ahead Log for Disk File Systems" has won the Best Poster Award at the China Storage Conference 2025！
 - <font color="0000dd">\[07/2025\]</font> Our paper "UAV-enabled Split Learning with Privacy Preservation in Internet of Things" has been accepted by IEEE Internet of Things Journal(通信作者, 中科院1区)！
