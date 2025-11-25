@@ -67,7 +67,7 @@ date: 2025-06-24 10:00
 
 ## 代表性学术成果
 
-近五年代表性论文（时间倒序）*表示通讯作者：
+近五年代表性论文（时间倒序）*表示通讯作者，†表示同等贡献：
 
 ### 会议论文
 
@@ -90,12 +90,6 @@ date: 2025-06-24 10:00
 
 
 ### 期刊论文
-
-[1].Tengfei Li, Minghao Yin*, <b>Juncheng Hu*</b>. BLA: Byzantine-Tolerant Lazy Auditing Framework for Decentralized Storage Data Integrity. ACM Transactions on Storage (2025) (CCF A类，存储领域顶刊)
-
-[2]. Jiale Zhang, Xilong Che, Yuzhe Fan, Shun Peng, Geng Chen, Quangong Ma, <b>Juncheng Hu*</b>. Quantum Run-length Encoding: Optimizing Data Compression on Quantum Computers with Exponential Resource Efficiency. Future Generation Computer Systems (2025)(CCF C类)
-
-[3]. <b>Juncheng Hu</b>, Shuo Chen, Haoyang Wei, Guoyu Wang, Chenju Pei, Xilong Che*. StorStack: A Full-Stack Design for In-Storage File Systems. Journal of Systems Architecture (2025)(CCF B类)
 
 [1]. Guoyu Wang†, <b>Juncheng Hu† *</b>, Can Zhou, Haoyang Wei, Chenju Pei, Puyi He, Tengfei Li, Xilong Che. A Transparent NVM Acceleration Framework for Disk File Systems. ACM Transactions on Storage (2025) (CCF A类，存储领域顶刊，吉林大学首篇)
 
