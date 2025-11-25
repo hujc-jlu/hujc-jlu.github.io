@@ -8,7 +8,7 @@ date: 2025-06-24 10:00
 - <font color="0000dd">\[10/2025\]</font> Our paper "A Transparent NVM Acceleration Framework for Disk File Systems" has been accepted by ACM Transactions on Storage(共一/通信作者, *CCF A*)！
 - <font color="0000dd">\[10/2025\]</font> Our paper "Efficient Video Representation via Hybrid Key Frame Reconstruction: A Test-time Data Augmentation Approach" has been accepted by IEEE Journal of Selected Topics in Signal Processing(第一作者, 中科院2区)！
 - <font color="0000dd">\[08/2025\]</font> Our poster "Boosting File Systems Elegantly: A Transparent NVM Write-ahead Log for Disk File Systems" has won the Best Poster Award at the China Storage Conference 2025！
-- <font color="0000dd">\[07/2025\]</font> Our paper "UAV-enabled Split Learning with Privacy Preservation in Internet of Things" has been accepted by IEEE Internet of Things Journal(通信作者, 中科院1区)！
+- <font color="0000dd">\[07/2025\]</font> Our paper "UAV-enabled Split Learning with Privacy Preservation in Internet of Things" has been accepted by IEEE Internet of Things Journal(通信作者, *中科院1区*)！
 - <font color="0000dd">\[05/2025\]</font> Our paper "MCF-Spouse: A Multi-label Causal Feature Selection Method With Optimal Spouses Discovery" has been accepted by IJCAI 2025(通信作者, *CCF A*)！
 - <font color="0000dd">\[05/2025\]</font> Our paper "Quantum Delta Encoding:Optimizing DataStorage on Quantum Computers with ResourceEficiency" has been accepted by Euro-Par 2025(通信作者, CCF B)！
 - <font color="0000dd">\[04/2025\]</font> Our paper "Denoising Diffusion Models with Optimized Quantum Implicit Neural Networks for Image Generation" has been accepted by Future Generation Computer Systems(通信作者, CCF C)！
@@ -19,10 +19,10 @@ date: 2025-06-24 10:00
 - <font color="0000dd">\[12/2024\]</font> Our paper "Quantum Run-length Encoding: Optimizing Data Compression on Quantum Computers with Exponential Resource Efficiency" has been accepted by ICASSP 2025(通信作者, CCF B)！
 - <font color="0000dd">\[12/2024\]</font> Our paper "Boosting File Systems Elegantly: A Transparent NVM Write-ahead Log for Disk File Systems" has been accepted by FAST 2025(通信作者, *CCF A*)！
 - <font color="0000dd">\[11/2024\]</font> We are funded by the project of National Key R&D Program of China (国家重点研发计划课题)！
-- <font color="0000dd">\[11/2024\]</font> Our paper "A privacy-preserving federated graph learning framework for threat detection in IoT trigger-action programming" has been accepted by Expert Systems With Applications(通信作者, 中科院1区)！
-- <font color="0000dd">\[09/2024\]</font> Our paper "CCDF-TAP: A Context-aware Conflict Detection Framework for IoT Trigger-Action Programming with Graph Neural Network" has been accepted by IEEE Internet of Things Journal(通信作者, 中科院1区)！
-- <font color="0000dd">\[08/2024\]</font> Our paper "Enhancing Medical Assistance through Secure Federated Edge Data Augmentation with Local Differential Privacy in non-IID Scenarios" has been accepted by Tsinghua Science and Technology(通信作者, 中科院1区)！
-- <font color="0000dd">\[05/2024\]</font> Our paper "DCGNN: Adaptive deep graph convolution for heterophily graphs" has been accepted by Information Sciences(通信作者, 中科院1区)！
+- <font color="0000dd">\[11/2024\]</font> Our paper "A privacy-preserving federated graph learning framework for threat detection in IoT trigger-action programming" has been accepted by Expert Systems With Applications(通信作者, *中科院1区*)！
+- <font color="0000dd">\[09/2024\]</font> Our paper "CCDF-TAP: A Context-aware Conflict Detection Framework for IoT Trigger-Action Programming with Graph Neural Network" has been accepted by IEEE Internet of Things Journal(通信作者, *中科院1区*)！
+- <font color="0000dd">\[08/2024\]</font> Our paper "Enhancing Medical Assistance through Secure Federated Edge Data Augmentation with Local Differential Privacy in non-IID Scenarios" has been accepted by Tsinghua Science and Technology(通信作者, *中科院1区*)！
+- <font color="0000dd">\[05/2024\]</font> Our paper "DCGNN: Adaptive deep graph convolution for heterophily graphs" has been accepted by Information Sciences(通信作者, *中科院1区*)！
 ## 个人简介
 
 胡俊成，博士，副教授/博士生导师，毕业于吉林大学，吉林大学计算机学院预聘教师发展中心主任、智能计算与系统实验室（JLU-ICS lab）负责人。团队感兴趣计算机体系结构、文件/存储系统、可信/机密计算及人工智能方法/安全相关研究。近五年以责任作者发表高水平文章30余篇，**<u>其中中国计算机学会推荐A/B类期刊和会议及中科院1区20余篇</u>，包括<u>FAST</u>、<u>TOS</u>、<u>CVPR</u>、<u>IJCAI</u>、<u>TCOM</u>、<u>IoT-J</u>、<u>FGCS</u>等高水平期刊/会议，授权国家发明专利9项</u>**。入职两年以来先后以负责人身份承担包括国家重点研发计划子课题、吉林省重点研发计划等省部级及以上纵向科研项目4项；吉林大学校内交叉学科培育项目一等资助1项（全校共7项）；国家级科研平台的开放性资助课题3项；企业合作项目2项（包括百万级横向1项）；累计可支配经费超400万元。曾获<b><u>吉林省自然科学奖二等奖1项（排2，2023年）</u>、<u>中国商业联合会科学技术一等奖1项（排3，2023年）</u>、<u>吉林省人才政策3.0版-D类人才（省域拔尖人才，2024年）</u>、<u>第七批吉林省青年科技人才托举工程（全省30人，计算机学科2人，2023年）</u>、<u>国家奖学金\*2</u>、<u>奇虎360奖学金</u>、<u>校优秀毕业生\*2</u></b>等多项奖励和荣誉。
