@@ -71,17 +71,23 @@ date: 2025-06-24 10:00
 
 ### 会议论文
 
-[1]. Guoyu Wang, Xilong Che, Haoyang Wei, Shuo Chen, Puyi He, <b>Juncheng Hu*</b>. Boosting File Systems Elegantly: A Transparent NVM Write-ahead Log for Disk File Systems. The 23rd USENIX Conference on File and Storage Technologies (FAST), 2025. (CCF A类会议长文，存储领域顶会，吉林大学首篇)
+[1]. <b>Juncheng Hu</b>, Zijian Zhang, Zeyu Wang, Guoyu Wang, Yingji Li, Kedi Lyu*. Breaking the Passive Learning Trap: An Active Perception Strategy for Human Motion Prediction. AAAI Conference on Artificial Intelligence (AAAI), 2026(CCF A类会议长文, Oral)
 
-[2]. Lin Ma, Liang Hu, Qiang Huang, Pingting Hao, <b>Juncheng Hu*</b>. MCF-Spouse: A Multi-label Causal Feature Selection Method With Optimal Spouses Discovery. The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025.(CCF A类会议长文)
+[2]. Guoyu Wang, Xilong Che, Haoyang Wei, Shuo Chen, Puyi He, <b>Juncheng Hu*</b>. Boosting File Systems Elegantly: A Transparent NVM Write-ahead Log for Disk File Systems. The 23rd USENIX Conference on File and Storage Technologies (FAST), 2025. (CCF A类会议长文，存储领域顶会，吉林大学首篇)
 
-[3]. Tianhao Ma, Han Chen, <b>Juncheng Hu</b>, Yungang Zhu, Ximing Li*. Forming Auxiliary High-confident Instance-level Loss to Promote Learning from Label Proportions. In Proceedings of the IEEE/CVF Computer Vision and Pattern Recognition (CVPR), 2025. (CCF A类会议长文)
+[3]. Lin Ma, Liang Hu, Qiang Huang, Pingting Hao, <b>Juncheng Hu*</b>. MCF-Spouse: A Multi-label Causal Feature Selection Method With Optimal Spouses Discovery. The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025.(CCF A类会议长文)
 
-[4]. Jiale Zhang, Xilong Che, Yuzhe Fan, <b>Juncheng Hu*</b>. Quantum Delta Encoding: Optimizing Data Storage on Quantum Computers with Resource Efficiency. The 31st International European Conference on Parallel and Distributed Computing(Euro-Par), 2025.(CCF B类会议长文)
+[4]. Tianhao Ma, Han Chen, <b>Juncheng Hu</b>, Yungang Zhu, Ximing Li*. Forming Auxiliary High-confident Instance-level Loss to Promote Learning from Label Proportions. In Proceedings of the IEEE/CVF Computer Vision and Pattern Recognition (CVPR), 2025. (CCF A类会议长文)
 
-[5]. Jiale Zhang, Xilong Che, Shiyong Jin, Kaifan Pan, Shun Peng, <b>Juncheng Hu*</b>. Quantum Run-length Encoding: Optimizing Data Compression on Quantum Computers with Exponential Resource Efficiency. ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025. (CCF B类会议长文)
+[5].  Lixia Xie, Pengcheng Kang, Hongyu Yang, <b>Juncheng Hu*</b>. Clean Label Backdoor Attack Based on Feature Distance Guided Sample Selection and Noise Optimization. IEEE 24th International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom), 2025. (CCF C类会议长文)
 
-[6]. Xilong Che, Jiale Zhang, Shuo Chen, Shun Peng, <b>Juncheng Hu*</b>. QGIP: A Framework Bridging Quantum Grayscale Image Processing and Applications. The 22nd IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA), 2024. (CCF C类会议长文)
+[6]. Jiale Zhang, Xilong Che, Yuzhe Fan, <b>Juncheng Hu*</b>. Quantum Delta Encoding: Optimizing Data Storage on Quantum Computers with Resource Efficiency. The 31st International European Conference on Parallel and Distributed Computing(Euro-Par), 2025.(CCF B类会议长文)
+
+[7]. Jiale Zhang, Xilong Che, Shiyong Jin, Kaifan Pan, Shun Peng, <b>Juncheng Hu*</b>. Quantum Run-length Encoding: Optimizing Data Compression on Quantum Computers with Exponential Resource Efficiency. ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025. (CCF B类会议长文)
+
+[8]. Xilong Che, Jiale Zhang, Shuo Chen, Shun Peng, <b>Juncheng Hu*</b>. QGIP: A Framework Bridging Quantum Grayscale Image Processing and Applications. The 22nd IEEE International Symposium on Parallel and Distributed Processing with Applications (IEEE ISPA), 2024. (CCF C类会议长文)
+
+
 
 ### 期刊论文
 
@@ -91,24 +97,39 @@ date: 2025-06-24 10:00
 
 [3]. <b>Juncheng Hu</b>, Shuo Chen, Haoyang Wei, Guoyu Wang, Chenju Pei, Xilong Che*. StorStack: A Full-Stack Design for In-Storage File Systems. Journal of Systems Architecture (2025)(CCF B类)
 
-[4]. Yongheng Xing, Liang Hu, Xinqi Du, Zhiqi Shen, <b>Juncheng Hu*</b>, Feng Wang. A privacy-preserving federated graph learning framework for threat detection in IoT trigger-action programming. Expert Systems with Applications. 246: 123180 (2024) (中科院1区，CCF C类)
+[1]. Guoyu Wang†, <b>Juncheng Hu† *</b>, Can Zhou, Haoyang Wei, Chenju Pei, Puyi He, Tengfei Li, Xilong Che. A Transparent NVM Acceleration Framework for Disk File Systems. ACM Transactions on Storage (2025) (CCF A类，存储领域顶刊，吉林大学首篇)
 
-[5]. Yongheng Xing, Liang Hu, Xinqi Du, Zhiqi Shen, <b>Juncheng Hu*</b>, Feng Wang. CCDF-TAP: A Context-Aware Conflict Detection Framework for IoT Trigger-Action Programming With Graph Neural Network. IEEE Internet of Things Journal (2024)(中科院1区，CCF C类)
+[2].Tengfei Li, Minghao Yin*, <b>Juncheng Hu*</b>. BLA: Byzantine-Tolerant Lazy Auditing Framework for Decentralized Storage Data Integrity. ACM Transactions on Storage (2025) (CCF A类，存储领域顶刊)
 
-[6]. <b>Juncheng Hu</b>, Gaochao Xu, Liang Hu, Shujing Li, Yang Xing. An Adaptive Energy Efficient MAC Protocol for RF Energy Harvesting WBANs. IEEE Transactions on Communications 71(1): 473-484 (2023) (中科院2区，CCF B类)
+[3]. Yunkai Wei, Yubin He, Yinan Xiao, Supeng Leng, <b>Juncheng Hu*</b>, Kun Yang* . UAV-Enabled Split Learning With Privacy Preservation in Internet of Things. IEEE Internet of Things Journal (2025)(中科院1区，CCF C类)
 
-[7]. <b>Juncheng Hu</b>, Yonghao Li, Wanfu Gao, Ping Zhang. Robust multi-label feature selection with dual-graph regularization. Knowl. Based Syst. 203: 106126 (2020) (中科院1区，CCF C类)
+[4]. <b>Juncheng Hu</b>, Yuqi Feng, Honghao Huang, Hongwei Chen, Kedi Lyu*. Efficient Video Representation via Hybrid Key Frame Reconstruction: A Test-time Data Augmentation Approach. IEEE Journal of Selected Topics in Signal Processing(2025) (中科院2区)
 
-[8]. <b>Juncheng Hu</b>, Yonghao Li, Gaochao Xu, Wanfu Gao. Dynamic subspace dual-graph regularized multi-label feature selection. Neurocomputing 467: 184-196 (2022) (CCF C类)
+[5]. Jiale Zhang, Xilong Che, Yuzhe Fan, Shun Peng, Geng Chen, Quangong Ma, <b>Juncheng Hu*</b>. Quantum Run-length Encoding: Optimizing Data Compression on Quantum Computers with Exponential Resource Efficiency. Future Generation Computer Systems (2025)(CCF C类)
 
-[9]. Yonghao Li, <b>Juncheng Hu*</b>, Wanfu Gao. Robust multi-label feature selection with shared label enhancement. Knowl. Inf. Syst. 64(12): 3343-3372 (2022) (CCF B类)
 
-[10]. Yang Wu, Yu Wang, Liang Hu, <b>Juncheng Hu*</b>. DCGNN: Adaptive deep graph convolution for heterophily graphs. Information Sciences, 609: 120427 (2024) (中科院1区，CCF B类)
+[6]. Jiale Zhang, Xilong Che, Shun Peng, Geng Chen, Quangong Ma, Bincheng Fan, <b>Juncheng Hu*</b>. Design and implementation of run-length encoding on quantum computers for resource-efficient data representation. Applied Soft Computing (中科院2区)
 
-[11]. <b>Juncheng Hu</b>, Yongheng Xing, Mo Han, Feng Wang, Kuo Zhao and Xilong Che.  Nonnegative matrix tri-factorization based clustering in a heterogeneous information network with star network schema. Tsinghua Science and Technology. 27: 386-395 (2022) (中科院 2区)
 
-[12]. <b>Juncheng Hu</b>, Xilong Che*, Bowen Kan, Yuhan Shao. LS-HTS: an HTC system for large-scale jobs. CCF Trans. High Perform. Comput.  (2024)(CCF C类)
+[7]. <b>Juncheng Hu</b>, Shuo Chen, Haoyang Wei, Guoyu Wang, Chenju Pei, Xilong Che*. StorStack: A Full-Stack Design for In-Storage File Systems. Journal of Systems Architecture (2025)(CCF B类)
 
+[8]. Yongheng Xing, Liang Hu, Xinqi Du, Zhiqi Shen, <b>Juncheng Hu*</b>, Feng Wang. A privacy-preserving federated graph learning framework for threat detection in IoT trigger-action programming. Expert Systems with Applications. 246: 123180 (2024) (中科院1区，CCF C类)
+
+[9]. Yongheng Xing, Liang Hu, Xinqi Du, Zhiqi Shen, <b>Juncheng Hu*</b>, Feng Wang. CCDF-TAP: A Context-Aware Conflict Detection Framework for IoT Trigger-Action Programming With Graph Neural Network. IEEE Internet of Things Journal (2024)(中科院1区，CCF C类)
+
+[10]. <b>Juncheng Hu</b>, Gaochao Xu, Liang Hu, Shujing Li, Yang Xing. An Adaptive Energy Efficient MAC Protocol for RF Energy Harvesting WBANs. IEEE Trans. Commun. 71(1): 473-484 (2023) (中科院2区，CCF B类)
+
+[11]. <b>Juncheng Hu</b>, Yonghao Li, Wanfu Gao, Ping Zhang. Robust multi-label feature selection with dual-graph regularization. Knowl. Based Syst. 203: 106126 (2020) (中科院1区，CCF C类)
+
+[12]. <b>Juncheng Hu</b>, Yonghao Li, Gaochao Xu, Wanfu Gao. Dynamic subspace dual-graph regularized multi-label feature selection. Neurocomputing 467: 184-196 (2022) (CCF C类)
+
+[13]. Yonghao Li, <b>Juncheng Hu*</b>, Wanfu Gao. Robust multi-label feature selection with shared label enhancement. Knowl. Inf. Syst. 64(12): 3343-3372 (2022) (CCF B类)
+
+[14]. Yang Wu, Yu Wang, Liang Hu, <b>Juncheng Hu*</b>. DCGNN: Adaptive deep graph convolution for heterophily graphs. Information Sciences, 609: 120427 (2024) (中科院1区，CCF B类)
+
+[15]. <b>Juncheng Hu</b>, Yongheng Xing, Mo Han, Feng Wang, Kuo Zhao and Xilong Che.  Nonnegative matrix tri-factorization based clustering in a heterogeneous information network with star network schema. Tsinghua Science and Technology. 27: 386-395 (2022) (中科院 2区)
+
+[16]. <b>Juncheng Hu</b>, Xilong Che*, Bowen Kan, Yuhan Shao. LS-HTS: an HTC system for large-scale jobs. CCF Trans. High Perform. Comput.  (2024)(CCF C类)
 ### 发明专利
 
 [1].<b><u>胡俊成</u></b>; 车喜龙; 王国毓; 陈硕; 魏皓阳; 黄梓胜 ; 一种高效的文件访问安全方法、系统、设备及介质, 2024-3-8, 中国, ZL202311307746.2，授权公告号：CN 117371032 B;
@@ -140,6 +161,8 @@ date: 2025-06-24 10:00
 3. 吉林省科技厅，自然科学二等奖，高维复杂大数据的降维理论和方法，2/4，2023年
 4. 中国商业联合会，科学技术一等奖，高性能环境下的医药数据处理关键技术及应用，3/11，2023年
 5. 吉林大学优秀本科毕业论文（设计）指导老师（2024/2025年）
+6. 中国存储大会最佳论文海报奖（2025年）
+7. 第七届中国计算机教育大会计算机类教学案例一等奖和实践案例特等奖（2025年）
 
 ## 学术兼职
 
@@ -147,5 +170,6 @@ date: 2025-06-24 10:00
 2. 中国人工智能学会会员
 3. 中国计算机学会体系结构专委
 4. 中国计算机学会分布式计算与系统专委执行委员
-5. CCF青年科技论坛（YOCSEF）长春分论坛AC
-6. 受邀担任Tsinghua Science and Technology客座编辑，ACM MM、WWW、IJCAI、ICME等国际会议和TPDS、TSMC、FGCS、IoT-J、ESWA等国际期刊审稿人、若干会议PC member
+5. 中国计算机学会网络与系统安全专委执行委员（首批）
+6. CCF青年科技论坛（YOCSEF）长春分论坛AC
+7. 受邀担任Tsinghua Science and Technology客座编辑，ACM MM、WWW、IJCAI、ICME等国际会议和TPDS、TSMC、TIP、TCSVT、FGCS、IoT-J、ESWA等国际期刊审稿人、若干会议PC member
