@@ -13,12 +13,12 @@ date: 2025-06-24 10:00
 - <font color="0000dd">\[05/2025\]</font> Our paper "Quantum Delta Encoding:Optimizing DataStorage on Quantum Computers with ResourceEficiency" has been accepted by Euro-Par 2025(通信作者, CCF B)！
 - <font color="0000dd">\[04/2025\]</font> Our paper "Denoising Diffusion Models with Optimized Quantum Implicit Neural Networks for Image Generation" has been accepted by Future Generation Computer Systems(通信作者, CCF C)！
 - <font color="0000dd">\[04/2025\]</font> Our paper "BLA: Byzantine-Tolerant Lazy Auditing Framework for Decentralized Storage Data Integrity" has been accepted by ACM Transactions on Storage(通信作者, *CCF A*)！
-- <font color="0000dd">\[01/2025\]</font> We are funded by Key R&D Program of Jilin Province (吉林省重点研发计划)！
+- <font color="0000dd">\[01/2025\]</font> We are funded by Key R&D Program of Jilin Province (*吉林省重点研发计划*)！
 - <font color="0000dd">\[01/2025\]</font> Our paper "NVLog: an Elegant Approach to Integrate NVM" invited by editor Rik Farrow has been published in USENIX; login: ！
 - <font color="0000dd">\[01/2025\]</font> Our paper "StorStack: A Full-Stack Design for In-Storage File Systems" has been accepted by Journal of Systems Architecture(第一作者, CCF B)！
 - <font color="0000dd">\[12/2024\]</font> Our paper "Quantum Run-length Encoding: Optimizing Data Compression on Quantum Computers with Exponential Resource Efficiency" has been accepted by ICASSP 2025(通信作者, CCF B)！
 - <font color="0000dd">\[12/2024\]</font> Our paper "Boosting File Systems Elegantly: A Transparent NVM Write-ahead Log for Disk File Systems" has been accepted by FAST 2025(通信作者, *CCF A*)！
-- <font color="0000dd">\[11/2024\]</font> We are funded by the project of National Key R&D Program of China (国家重点研发计划课题)！
+- <font color="0000dd">\[11/2024\]</font> We are funded by the project of National Key R&D Program of China (*国家重点研发计划课题*)！
 - <font color="0000dd">\[11/2024\]</font> Our paper "A privacy-preserving federated graph learning framework for threat detection in IoT trigger-action programming" has been accepted by Expert Systems With Applications(通信作者, *中科院1区*)！
 - <font color="0000dd">\[09/2024\]</font> Our paper "CCDF-TAP: A Context-aware Conflict Detection Framework for IoT Trigger-Action Programming with Graph Neural Network" has been accepted by IEEE Internet of Things Journal(通信作者, *中科院1区*)！
 - <font color="0000dd">\[08/2024\]</font> Our paper "Enhancing Medical Assistance through Secure Federated Edge Data Augmentation with Local Differential Privacy in non-IID Scenarios" has been accepted by Tsinghua Science and Technology(通信作者, *中科院1区*)！
