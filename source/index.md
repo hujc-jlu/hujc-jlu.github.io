@@ -99,7 +99,7 @@ date: 2025-06-24 10:00
 
 [4]. <b>Juncheng Hu</b>, Yuqi Feng, Honghao Huang, Hongwei Chen, Kedi Lyu*. Efficient Video Representation via Hybrid Key Frame Reconstruction: A Test-time Data Augmentation Approach. IEEE Journal of Selected Topics in Signal Processing(2025) (中科院2区)
 
-[5]. Jiale Zhang, Xilong Che, Yuzhe Fan, Shun Peng, Geng Chen, Quangong Ma, <b>Juncheng Hu*</b>. Quantum Run-length Encoding: Optimizing Data Compression on Quantum Computers with Exponential Resource Efficiency. Future Generation Computer Systems (2025)(CCF C类)
+[5]. Jiale Zhang, Xilong Che, Yuzhe Fan, Shun Peng, Geng Chen, Quangong Ma, <b>Juncheng Hu*</b>. Denoising Diffusion Models with Optimized Quantum Implicit Neural Networks for Image Generation. Future Generation Computer Systems (2025)(CCF C类)
 
 
 [6]. Jiale Zhang, Xilong Che, Shun Peng, Geng Chen, Quangong Ma, Bincheng Fan, <b>Juncheng Hu*</b>. Design and implementation of run-length encoding on quantum computers for resource-efficient data representation. Applied Soft Computing (中科院2区)
