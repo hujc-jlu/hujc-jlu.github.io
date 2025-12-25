@@ -162,8 +162,8 @@ date: 2025-06-24 10:00
 
 1. 中国计算机学会高级会员（CCF Senior Member）
 2. 中国人工智能学会会员
-3. 中国计算机学会体系结构专委
+3. 中国计算机学会体系结构专委执行委员
 4. 中国计算机学会分布式计算与系统专委执行委员
 5. 中国计算机学会网络与系统安全专委执行委员（首批）
 6. CCF青年科技论坛（YOCSEF）长春分论坛AC
-7. 受邀担任Tsinghua Science and Technology客座编辑，ACM MM、WWW、IJCAI、ICME等国际会议和TPDS、TSMC、TIP、TCSVT、FGCS、IoT-J、ESWA等国际期刊审稿人、若干会议PC member
+7. 受邀担任《网络空间安全科学学报》青年编委、Tsinghua Science and Technology客座编辑，ACM MM、WWW、IJCAI、ICME等国际会议和TPDS、TSMC、TIP、TCSVT、FGCS、IoT-J、ESWA等国际期刊审稿人、若干会议PC member
