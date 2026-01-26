@@ -2,8 +2,10 @@
 title: About Me
 date: 2025-06-24 10:00
 ---
-
+Two paper accepted by ICML (CCF A)！Congrats to Kangjie and Haozhao!
 ## News🎉 
+- <font color="0000dd">\[01/2026\]</font> Two paper has been accepted by WWW 2026(通信作者, *CCF A*)！
+- <font color="0000dd">\[01/2026\]</font> Our paper "Crash Consistency in an NVM-enabled Hybrid Storage System: Problems, Solutions, and Verification" has been accepted by Journal of Systems Architecture(通信作者, CCF B)！
 - <font color="0000dd">\[12/2025\]</font> Our paper "Enhancing Fairness in Decision-Making of Natural Language Understanding Systems: An Intersectional Bias Debiasing Model via Information Theory-based Disentanglement" has been accepted by Expert Systems With Applications(通信作者, *中科院1区*)！
 - <font color="0000dd">\[11/2025\]</font> Our paper "Breaking the Passive Learning Trap: An Active Perception Strategy for Human Motion Prediction" has been accepted by AAAI 2026 Oral(第一作者, *CCF A*)！
 - <font color="0000dd">\[10/2025\]</font> Our paper "A Transparent NVM Acceleration Framework for Disk File Systems" has been accepted by ACM Transactions on Storage(共一/通信作者, *CCF A*)！
