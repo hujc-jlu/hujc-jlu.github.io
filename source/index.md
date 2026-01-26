@@ -2,7 +2,7 @@
 title: About Me
 date: 2025-06-24 10:00
 ---
-Two paper accepted by ICML (CCF A)！Congrats to Kangjie and Haozhao!
+
 ## News🎉 
 - <font color="0000dd">\[01/2026\]</font> Two paper has been accepted by WWW 2026(通信作者, *CCF A*)！
 - <font color="0000dd">\[01/2026\]</font> Our paper "Crash Consistency in an NVM-enabled Hybrid Storage System: Problems, Solutions, and Verification" has been accepted by Journal of Systems Architecture(通信作者, CCF B)！
