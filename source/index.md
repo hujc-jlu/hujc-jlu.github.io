@@ -4,6 +4,7 @@ date: 2025-06-24 10:00
 ---
 
 ## News🎉 
+- <font color="0000dd">\[04/2026\]</font> Our paper "Distilling the Essence, Discarding the Dross: Improving Fairness in Multimodal Large Language Models via Historical Reflection-Guided Prompt Optimization" has been accepted by ACL 2026 as a Findings Paper(第一作者, *CCF A*)！
 - <font color="0000dd">\[02/2026\]</font> We are funded by  the Inspur Storage Qinglan Fund for the year 2026 (*浪潮存储青蓝基金*)！
 - <font color="0000dd">\[01/2026\]</font> Two paper has been accepted by WWW 2026(通信作者, *CCF A*)！
 - <font color="0000dd">\[01/2026\]</font> Our paper "Crash Consistency in an NVM-enabled Hybrid Storage System: Problems, Solutions, and Verification" has been accepted by Journal of Systems Architecture(通信作者, CCF B)！
