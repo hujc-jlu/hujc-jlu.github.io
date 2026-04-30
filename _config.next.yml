@@ -98,14 +98,14 @@ open_graph:
 menu:
   主页:
     default: / || fa fa-home
-    News: /#News
+    News🎉: /#News🎉
     个人简介: /#个人简介
     教育经历: /#教育经历
     工作经历: /#工作经历
     科研项目: /#科研项目
     代表性学术成果: /#代表性学术成果
     荣誉奖励: /#荣誉奖励
-    学术服务: /#学术服务
+    学术兼职: /#学术兼职
   English:
     default: /en || fa fa-globe
     News: /en/#News
