@@ -4,6 +4,8 @@ date: 2025-06-24 10:00
 ---
 
 ## News🎉 
+- <font color="0000dd">\[05/2026\]</font> Our paper "TAPGuard: A Semantic-Aware Graph Framework for TAP Rule Cascading Threat Detection" has been accepted by IEEE Transactions on Information Forensics and Security(通信作者, *CCF A*)！
+- <font color="0000dd">\[05/2026\]</font> Our paper "Rethinking Time Series Anomaly Detection from a Dynamic Perspective: Temporal–Frequency–Curvature Fusion" has been accepted by SIGKDD 2026 (*CCF A*)！
 - <font color="0000dd">\[04/2026\]</font> Our paper "Distilling the Essence, Discarding the Dross: Improving Fairness in Multimodal Large Language Models via Historical Reflection-Guided Prompt Optimization" has been accepted by ACL 2026 as a Findings Paper(第一作者, *CCF A*)！
 - <font color="0000dd">\[02/2026\]</font> We are funded by  the Inspur Storage Qinglan Fund for the year 2026 (*浪潮存储青蓝基金*)！
 - <font color="0000dd">\[01/2026\]</font> Two paper has been accepted by WWW 2026(通信作者, *CCF A*)！
